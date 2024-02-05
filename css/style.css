@@ -20,7 +20,7 @@
 
 * {
     font-family: 'Lato', sans-serif;
-    margin: 0;
+    margin: auto;
 }
 
 body {
@@ -85,8 +85,7 @@ footer {
     width: 100%;
 }
 
-.footer
-{
+.footer {
     background: #1c1c1c;
     height: 25px;
     margin: auto;
